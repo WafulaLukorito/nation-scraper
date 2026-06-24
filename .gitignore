@@ -1,0 +1,45 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Session cookies and user data (CRITICAL: Do not commit premium account cookies!)
+cookies.json
+*.json.json
+my.nationmedia.com.json
+user_data/
+
+# IDE and OS files
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
